@@ -8,10 +8,7 @@ Dự án tập trung vào việc xây dựng một hệ thống hỗ trợ y bá
 * **Normal**: Phổi bình thường.
 
 ## 2. Công nghệ sử dụng (Tech Stack)
-Hệ thống được phát triển bằng ngôn ngữ **Python** với các thư viện hỗ trợ chuyên sâu:
-* **Deep Learning Frameworks**: `TensorFlow`, `Keras` để xây dựng và huấn luyện mô hình.
-* **Xử lý ảnh & Dữ liệu**: `OpenCV` (tiền xử lý ảnh), `NumPy`, `Pandas` (xử lý dữ liệu đầu vào/ra).
-* **Web Backend**: `Flask` framework được sử dụng để triển khai web service.
+* **Backend**: `Flask` framework được sử dụng để triển khai web service.
 * **Frontend**: `HTML`, `CSS`, `JavaScript`.
 
 ## 3. Dữ liệu huấn luyện (Dataset)
